@@ -1,0 +1,36 @@
+body {
+    overflow-x: hidden;
+}
+.right-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background:linear-gradient(0deg, rgba(0, 23, 32, 0.9), rgba(0, 24, 43, 0.9)), url('./images/bg.jpg');
+    background-size:cover;
+}
+.card-title {
+    color: #FFA100;
+    margin-top: 206px;
+}
+.card-text {
+    margin-bottom: 208px !important;
+}
+.features-boxes {
+    margin-right: -400px;
+}
+.feature-box {
+    height: 125px;
+}
+.left-container {
+    background-image: url("./images/vector2.png");
+    background-position: top right;
+    background-repeat: no-repeat;
+}
+.bg-middle {
+    margin-top: 380px;
+    margin-left: 310px;
+}
+.bg-top {
+    margin-left: 150px;
+}
