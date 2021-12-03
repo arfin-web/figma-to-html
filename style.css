@@ -17,7 +17,7 @@ body {
     margin-bottom: 208px !important;
 }
 .features-boxes {
-    margin-right: -400px;
+    margin-right: -440px;
 }
 .feature-box {
     height: 125px;
@@ -28,9 +28,13 @@ body {
     background-repeat: no-repeat;
 }
 .bg-middle {
-    margin-top: 380px;
+    margin-top: 350px;
     margin-left: 310px;
 }
 .bg-top {
     margin-left: 150px;
+}
+.bg-bottom {
+    margin-top: 290px;
+    margin-left: 180px;
 }
